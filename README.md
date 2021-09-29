@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @austingw
+- 👀 I’m interested in programming, meditation, music production, and the esoteric 🕯️
+- 🌱 I’m currently learning Javascript
